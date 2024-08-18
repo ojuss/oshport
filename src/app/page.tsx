@@ -12,7 +12,7 @@ export default function Home() {
             </div>
             <h1 className="text-4xl font-bold">Ding Dong! Osh here.</h1>
             <p className="text-muted-foreground">
-              I'm an aspiring scientific illustrator expertise in blender and illustrator. I'm also a recent graduate from IISER - Mohali.
+              I am an aspiring scientific illustrator expertise in blender and illustrator. I am also a recent graduate from IISER - Mohali.
             </p>
           </div>
         </div>
